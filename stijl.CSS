@@ -1,0 +1,15 @@
+header{ height: 100px;
+  color: green;
+background-color: lightgreen;
+}
+footer{ height: 200px;
+  background-color: lightgreen;
+}
+.btn{ border-radius: 0;
+}
+.col{ padding-bottom: 7px;
+}
+i{ color: blue;
+}
+.i1{ color: green;
+}
